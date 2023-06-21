@@ -1,4 +1,4 @@
-@import url(/image/green.jpg);
+@import url(/green.jpg);
 
 body{
   color:#494949;
@@ -20,7 +20,7 @@ h2 {
 }
 
 .banner{
-  background-image: url("/image/green.jpg");
+  background-image: url("/green.jpg");
   background-size: cover;
   color:white;
   padding: 120px 0;
